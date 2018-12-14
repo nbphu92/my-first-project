@@ -132,8 +132,10 @@ int main(void)
   MX_GPIO_Init();
   MX_I2C1_Init();
   MX_I2S3_Init();
+  
   MX_SPI1_Init();
-  /* USER CODE BEGIN 2 */
+  // delete one line code 
+  
 
   /* USER CODE END 2 */
 

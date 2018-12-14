@@ -70,6 +70,8 @@ osThreadId Task02Handle;
 /* USER CODE BEGIN PV */
 /* Private variables ---------------------------------------------------------*/
 osMailQId(myMailQID); //Define mail queue
+
+// comment
 typedef struct
 {
   int16_t x_ang_rate;
